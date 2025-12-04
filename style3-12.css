@@ -1,0 +1,52 @@
+.hrad{
+    background-image: url(image.png);
+    height: 30vh;
+    width: 100%;
+    filter: brightness(-100);
+}
+.first{
+    text-align: center;
+    font-weight: 800;
+    font-size: 70px;
+    color: rgb(172, 51, 51);
+   padding: 30px;
+
+}
+.c{
+    height: 50vh;
+    width: 100%;
+    /* display: flex; */
+}
+.i img{
+    height: 30vh;
+    width: 50%;
+    margin: 50px 100px;
+}
+.p{
+    height: 20vh;
+    width: 40%;
+} 
+
+.ie img{
+    height: 40vh;
+    width: 60%;
+    /* overflow: hidden;
+    object-fit: contain; */
+    margin: 5px 200px ;
+}
+.iem img{
+    height: 40vh;
+    width: 70%;
+}
+.space{
+    text-align: center;
+    height: 30vh;
+    width: 100%;
+    background-color: black;
+    color: white;
+    /* margin-top: 50px; */
+}
+.goal{
+    text-align: center;
+    margin: 50px;
+}
